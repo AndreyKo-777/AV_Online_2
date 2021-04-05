@@ -33,11 +33,7 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=9BA423FF-D84B-4DBA-A4E0-4901A8C5BF0C
-VaultGUID=76043240-879C-44C2-A3CA-4345F30F7677
-ReleaseVaultName=000001_GIT_Stage_2
-ItemGUID=9BA423FF-D84B-4DBA-A4E0-4901A8C5BF0C
-IncludeDesignInRelease=0
+
 
 [Preferences]
 PrefsVaultGUID=
